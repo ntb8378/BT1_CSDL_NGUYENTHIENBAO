@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0">
+  <diagram name="Page-1" id="6UBAQCjntxRMdmQyps86">
+    <mxGraphModel dx="1645" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tác giả" vertex="1">
+          <mxGeometry height="30" width="60" x="240" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sách" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 18.6667px; text-align: start; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;tên tác giả&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="60" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-30" edge="1" parent="1" source="GD7VaVWfDiNFkEgSwXUi-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GD7VaVWfDiNFkEgSwXUi-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 18.6667px; text-align: start; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;năm sinh&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="110" x="280" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 18.6667px; text-align: start; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;tiểu sử&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="200" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-37" edge="1" parent="1" source="GD7VaVWfDiNFkEgSwXUi-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.421;entryY=1.078;entryDx=0;entryDy=0;entryPerimeter=0;" target="GD7VaVWfDiNFkEgSwXUi-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-38" edge="1" parent="1" source="GD7VaVWfDiNFkEgSwXUi-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.617;entryY=-0.094;entryDx=0;entryDy=0;entryPerimeter=0;" target="GD7VaVWfDiNFkEgSwXUi-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-39" edge="1" parent="1" source="GD7VaVWfDiNFkEgSwXUi-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GD7VaVWfDiNFkEgSwXUi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;u&gt;mã sách&lt;/u&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="90" x="480" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-41" edge="1" parent="1" source="GD7VaVWfDiNFkEgSwXUi-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="GD7VaVWfDiNFkEgSwXUi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 18.6667px; text-align: start; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;tên sách&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="600" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-43" edge="1" parent="1" source="GD7VaVWfDiNFkEgSwXUi-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="GD7VaVWfDiNFkEgSwXUi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 18.6667px; text-align: start; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;năm xuất bản&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="530" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-45" edge="1" parent="1" source="GD7VaVWfDiNFkEgSwXUi-49" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GD7VaVWfDiNFkEgSwXUi-26" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="490" as="sourcePoint" />
+            <mxPoint x="420" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-47" connectable="0" parent="GD7VaVWfDiNFkEgSwXUi-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.4755" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-48" connectable="0" parent="GD7VaVWfDiNFkEgSwXUi-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="n" vertex="1">
+          <mxGeometry relative="1" x="0.5084" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-50" edge="1" parent="1" source="GD7VaVWfDiNFkEgSwXUi-25" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GD7VaVWfDiNFkEgSwXUi-49" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="415" as="sourcePoint" />
+            <mxPoint x="510" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-51" connectable="0" parent="GD7VaVWfDiNFkEgSwXUi-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="n" vertex="1">
+          <mxGeometry relative="1" x="-0.398" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-49" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="viết" vertex="1">
+          <mxGeometry height="45" width="50" x="380" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-55" edge="1" parent="1" source="GD7VaVWfDiNFkEgSwXUi-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GD7VaVWfDiNFkEgSwXUi-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GD7VaVWfDiNFkEgSwXUi-54" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;u&gt;mã tác giả&lt;/u&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="60" width="90" x="150" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
